@@ -1,1 +1,1 @@
-My first readme
+this reprository contains solutions to python
